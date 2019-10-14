@@ -1,3 +1,4 @@
+![AIGLE](https://github.com/jvoltci/aigle/blob/master/images/aigle.png)
 # AIGLE - v1
 
 ### AIGLE is smart surveillance system, surveillances which can think. It can identify humans, animals, objects and it can analyse situations and even prevent catastrophes from happening. And it has been done by integrating surveillances with artificial intelligence including facial recognition.
