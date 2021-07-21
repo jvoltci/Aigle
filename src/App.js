@@ -140,27 +140,27 @@ class App extends Component {
         {
           route === 'signin'
           ?
-          <footer class="site-footer">
-                <div class="container">
-                  <div class="row">
-                      <div class="col-sm-12 col-md-6">
+          <footer className="site-footer">
+                <div className="container">
+                  <div className="row">
+                      <div className="col-sm-12 col-md-6">
                       </div>
-                      <div class="col-xs-6 col-md-3">
+                      <div className="col-xs-6 col-md-3">
                       </div>
                     <hr/>
                   </div>
                 </div>
-                <div class="container">
-                  <div class="row">
-                    <div class="col-md-8 col-sm-6 col-xs-12">
-                      <p class="copyright-text">Copyright &copy; 2019 All Rights Reserved by
-                   <a href="https://ivehement.wordpress.com/"> AIGLE Inc</a>.
+                <div className="container">
+                  <div className="row">
+                    <div className="col-md-8 col-sm-6 col-xs-12">
+                      <p className="copyright-text">&copy;{new Date().getFullYear()} Copyright:
+                   <a href="https://ivehement.wordpress.com/">Vehement</a>
                       </p>
                     </div>
 
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                      <ul class="social-icons">
-                        <li><a class="twitter" href="https://twitter.com/j_aici"><i class="fa fa-twitter"></i></a></li> 
+                    <div className="col-md-4 col-sm-6 col-xs-12">
+                      <ul className="social-icons">
+                        <li><a className="twitter" href="https://twitter.com/j_aici"><i className="fa fa-twitter"></i></a></li> 
                       </ul>
                     </div>
                   </div>
